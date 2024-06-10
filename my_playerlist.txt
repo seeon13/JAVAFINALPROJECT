@@ -1,0 +1,12 @@
+1 NEUER Germany 320 4
+3 KIM korea 1320 3
+7 SonHeungMin Korea 3000 2
+1995 Handong Korea 9999 1
+14 NEYMAR Brazil 400 2
+44 ALLISON Brazil 1000 4
+27 MESSI Argentina 5000 2
+88 MBAPPE France 1000 1
+17 PELE Brazil 400 1
+11 BALE England 700 1
+2 ALVES Brazil 300 3
+19 ROONEY England 1200 1
